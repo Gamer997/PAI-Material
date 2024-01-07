@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket Data</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cricket Data</h1>
+    <table>
+        <tr>
+            <th>Match_Id</th>
+            <th>Innings_Id</th>
+            <th>Over_Id</th>
+            <th>Ball_Id</th>
+            <th>Team_Batting_Id</th>
+            <th>Team_Bowling_Id</th>
+            <th>Striker_Id</th>
+            <th>Striker_Batting_Position</th>
+            <th>Non_Striker_Id</th>
+            <th>Bowler_Id</th>
+            <th>Batsman_Scored</th>
+            <!-- Add other headers as needed -->
+        </tr>
+        {% for row in data %}
+        <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+            <td>{{ row[2] }}</td>
+            <td>{{ row[3] }}</td>
+            <td>{{ row[4] }}</td>
+            <td>{{ row[5] }}</td>
+            <td>{{ row[6] }}</td>
+            <td>{{ row[7] }}</td>
+            <td>{{ row[8] }}</td>
+            <td>{{ row[9] }}</td>
+            <td>{{ row[10] }}</td>
+            <!-- Add other columns as needed -->
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

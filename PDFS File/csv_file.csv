@@ -1,0 +1,96 @@
+,Security Borrower,Foreign Banks,Private Sector Banks,Public Sector Banks,Specialized Banks,All Banks
+1,1. FOREIGN CONSTITUENTS,0,-,-,-,0
+2,2. DOMESTIC CONSTITUENTS,467.4,"8,426.00","2,410.90",132.1,"11,436.40"
+3,I. GOVERNMENT,397.2,859.6,473.1,-,"1,729.90"
+4,II.  NON-FINANCIAL PUBLIC SECTOR ENTERPRISES (NFPSE),-,"1,067.70",520.5,-,"1,588.20"
+5,III. NON-BANK FINANCIAL INSTITUTIONS (NBFIs),-,248.7,23.5,0.1,272.3
+6,IV.  PRIVATE SECTOR (BUSINESS),69.5,"5,391.90","1,113.90",129.6,"6,704.90"
+7,"i. GOLD BULLION, GOLD, AND SILVER ORNAMENTS, PRECIOUS METALS",-,3.7,82.1,-,85.8
+8,"ii. SECURITIES, SHARES AND OTHER FINANCIAL INSTRUMENTS",-,51.4,32.5,0,83.9
+9,(A) Quoted On Stock Exchange,-,34.2,1.7,-,36
+10,1. To Stock Brokers And Dealers,-,16.7,1.3,-,18
+11,a) Government And Others Trustee Securities,-,1.5,-,-,1.5
+12,b) Shares and Debentures,-,14.8,1.3,-,16.1
+13,c) Participation Term Certificates (PTC),-,-,-,-,-
+14,d) Others,-,0.4,-,-,0.4
+15,2. To Others,-,17.5,0.5,-,18
+16,a) Government and Other Trustee Securities,-,0,0.2,-,0.2
+17,b) Shares And Debentures,-,16.8,0.3,-,17.1
+18,c) Participation Term Certificates (PTC),-,0,0,-,0
+19,d) Others,-,0.7,-,-,0.7
+20,(B) Unquoted On The Stock Exchange,-,17.1,30.8,0,47.9
+21,1. To Stock Brokers And Dealers,-,8.5,-,-,8.5
+22,a) Government and Other Trustee Securities,-,0,-,-,0
+23,b) Shares and Debentures,-,8.2,-,-,8.2
+24,c) Participation Term Certificates (PTC),-,-,-,-,-
+25,d) Others,-,0.3,-,-,0.3
+26,2. To Others,-,8.7,30.8,0,39.5
+27,a) Government and Other Trustee Securities,-,1.8,6.6,0,8.4
+28,b) Shares and Debentures,-,1.4,0.8,-,2.2
+29,c) Participation Term Certificates (PTC),-,-,-,-,-
+30,d) Others,-,5.5,23.4,-,28.9
+31,iii. MERCHANDISE,1.3,"2,047.20",402.4,0,"2,450.90"
+32,(A) Food Items,-,402.3,62.5,0,464.8
+33,1. Wheat,-,45.3,0.9,-,46.2
+34,2. Rice and Paddy,-,58.9,15.6,-,74.6
+35,3. Other Grains and Pulses,-,17.2,0.2,0,17.4
+36,a) Indigenous,-,15.7,0.2,0,15.9
+37,b) Imported,-,1.5,0,-,1.5
+38,4. Edible Oils,-,88.3,8.7,-,96.9
+39,a) Indigenous,-,80.5,8.7,-,89.2
+40,b) Imported,-,7.8,-,-,7.8
+41,5. Sugar,-,109.7,29.9,-,139.6
+42,a) Indigenous,-,109.1,29.9,-,139
+43,b) Imported,-,0.6,-,-,0.6
+44,6. Kariana and Spices,-,3,0,-,3.1
+45,7. Fish and Fish Preparations,-,0.9,-,-,0.9
+46,8. Other Food Items,-,79,7.2,-,86.2
+47,a) Indigenous,-,78.2,7.2,-,85.4
+48,b) Imported,-,0.8,-,-,0.8
+49,(B) Raw Materials,0.7,505.3,162.7,-,668.7
+50,1. Cotton Raw,-,141.3,30.1,-,171.3
+51,a) Indigenous,-,127.8,24,-,151.8
+52,b) Imported,-,13.4,6.1,-,19.6
+53,2. Synthetic Fibers,-,14.9,0.2,-,15.1
+54,a) Indigenous,-,13.9,0,-,13.9
+55,b) Imported,-,1,0.2,-,1.2
+56,3. Fertilizers,-,42.2,6.4,-,48.7
+57,a) Indigenous,-,37.5,6.4,-,44
+58,b) Imported,-,4.7,-,-,4.7
+59,4. Petroleum Crude,-,62.8,59.7,-,122.6
+60,a) Indigenous,-,51.9,51.4,-,103.3
+61,b) Imported,-,10.9,8.4,-,19.3
+62,5. Iron and Steel,-,106.6,14.8,-,121.4
+63,a) Indigenous,-,82.1,6.8,-,88.9
+64,b) Imported,-,24.5,8,-,32.5
+65,6. Wool and Goat Hair,-,0,-,-,0
+66,7. Hides and Skins,-,5,0,-,5
+67,8. Oil Seeds,-,15.2,0,-,15.3
+68,9. Pesticides and Insecticides,-,4.4,0.4,-,4.7
+69,a) Indigenous,-,4,0.4,-,4.3
+70,b) Imported,-,0.4,-,-,0.4
+71,10. Other Raw Materials,0.7,112.9,51,-,164.6
+72,a) Indigenous,0.7,100.5,51,-,152.2
+73,b) Imported,-,12.4,0,-,12.4
+74,(C) Finished / Manufactured Goods,0.6,"1,139.50",177.3,-,"1,317.50"
+75,1. Cotton Textiles,-,248.7,46.1,-,294.8
+76,a) Indigenous,-,242.3,40.6,-,282.9
+77,b) Imported,-,6.4,5.5,-,11.9
+78,2. Cotton Yarn,-,92.8,26,-,118.8
+79,a) Indigenous,-,91.8,25.8,-,117.5
+80,b) Imported,-,1,0.2,-,1.2
+81,3. Other Textiles,0.4,206.3,26.6,-,233.3
+82,a) Indigenous,0.4,203.3,25.9,-,229.6
+83,b) Imported,-,3.1,0.7,-,3.8
+84,4. Machinery,-,49.7,1.3,-,51
+85,a) Locally Manufactured,-,30.8,0,-,30.8
+86,b) Imported,-,18.9,1.3,-,20.2
+87,5. Handloom Products,-,0,-,-,0
+88,6. Carpets and Rugs,-,0.5,0.4,-,0.9
+89,7. Readymade Garments,-,76,21.5,-,97.5
+90,8. Cement and Cement Products,-,122.3,17.1,-,139.5
+91,a) Indigenous,-,119.1,17.1,-,136.3
+92,b) Imported,-,3.2,-,-,3.2
+93,9. Sports Goods,-,1.4,0.1,-,1.5
+94,10. Surgical Instruments,0.1,6.1,0.1,-,6.2
+95,11. Chemicals and Dyes,0,52.2,8,-,60.3
